@@ -12,7 +12,7 @@
 ```javascript
 const dimas = {
   pronouns: "he",
-  code: [Javascript, HTML, CSS, PHP],
+  code: [PHP, HTML, CSS, Javascript],
   tools: [React, Redux, MySql, SCSS, Bootstrap, Laravel, Styled-Components]
 }
 ```
